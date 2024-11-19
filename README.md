@@ -2,6 +2,8 @@
 
 Welcome to **Wood Work**, a static website dedicated to showcasing the creative works of kids. This project displays images of the kids' woodwork projects, some accompanied by descriptions, in an interactive and responsive gallery format.
 
+[Deployed](https://rusicaalexandru.github.io/CCA_WoodWork_Landing)
+
 ## Table of Contents
 
 - [Features](#features)
